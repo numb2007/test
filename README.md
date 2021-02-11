@@ -17,6 +17,15 @@ Nginx is a web server that can also be used as a reverse proxy, load balancer, m
 * Windows XP, Windows Server 2003, Windows 7, Windows 10.
 
 
+### Install
+[Обычная ссылка в строке](https://www.google.com)
+
+[Обычная ссылка с title](https://www.google.com "Сайт Google")
+
+[Ссылка со сноской][Произвольный регистронезависимый текст]
+
+[Относительная ссылка на документ](../blob/master/LICENSE)
+
 ## License
 The software was created by Igor Sysoev and publicly released in 2004. Nginx is free and open-source software
 2-clause BSD license
