@@ -1,9 +1,9 @@
 ![LOGO](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/320px-Nginx_logo.svg.png)
 
-### NGINX 
+### Nginx
 Nginx is a web server that can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache. 
-### Realese date: 
-2004
+### Realese date:#2004
+
 
 ### Supported OS
 
