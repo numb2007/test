@@ -18,9 +18,7 @@ Nginx is a web server that can also be used as a reverse proxy, load balancer, m
 
 
 ### Install
-[Обычная ссылка в строке](https://www.google.com)
 
-[Обычная ссылка с title](https://www.google.com "Сайт Google")
 
 [Installing a Prebuilt Package](https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/#prebuilt_modules "Installing a Prebuilt Package")
 []Modules Included in a Prebuilt Package
@@ -29,6 +27,8 @@ Nginx is a web server that can also be used as a reverse proxy, load balancer, m
 []Installing Prebuilt Ubuntu Packages
 []Installing SUSE Packages
 []Installing Alpine Linux Packages
+### Configure
+[Configure]https://www.nginx.com/resources/wiki/start/topics/examples/full/
 
 ## License
 The software was created by Igor Sysoev and publicly released in 2004. Nginx is free and open-source software
