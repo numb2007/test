@@ -20,7 +20,7 @@ Nginx is a web server that can also be used as a reverse proxy, load balancer, m
 ### Install
 
 
-[Installing a Prebuilt Package](https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/#prebuilt_modules "Installing a Prebuilt Package")
+[Install ways](https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/#prebuilt_modules "Installing a Prebuilt Package")
 
 ### Configure nginx.conf
 [Configure] (https://www.nginx.com/resources/wiki/start/topics/examples/full)
